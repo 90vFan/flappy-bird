@@ -1,0 +1,16 @@
+README.md
+setup.py
+gameai/__init__.py
+gameai.egg-info/PKG-INFO
+gameai.egg-info/SOURCES.txt
+gameai.egg-info/dependency_links.txt
+gameai.egg-info/requires.txt
+gameai.egg-info/top_level.txt
+gameai/flappy_bird/__init__.py
+gameai/flappy_bird/ai/__init__.py
+gameai/flappy_bird/ai/dqn.py
+gameai/flappy_bird/game/__init__.py
+gameai/flappy_bird/game/_bak.py
+gameai/flappy_bird/game/dqn.py
+gameai/flappy_bird/game/run.py
+gameai/flappy_bird/game/settings.py
